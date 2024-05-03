@@ -1,0 +1,18 @@
+[
+  { "id": 1, "name": "Rajesh Sharma", "region": "Malwa", "party": "Indian National Congress", "votes": 0},
+  { "id": 2, "name": "Deepa Singh", "region": "Malwa", "party": "Bharatiya Janata Party", "votes": 0},
+  { "id": 3, "name": "Priya Patel", "region": "Malwa", "party": "Aam Aadmi Party", "votes": 0},
+  { "id": 4, "name": "Vikram Yadav", "region": "Malwa", "party": "Samajwadi Party", "votes": 0},
+  { "id": 5, "name": "Neha Gupta", "region": "Malwa", "party": "Communist Party of India", "votes": 0},
+  { "id": 6, "name": "Rahul Verma", "region": "Malwa", "party": "Nationalist Congress Party", "votes": 0},
+  { "id": 7, "name": "Anjali Desai", "region": "Malwa", "party": "Shiv Sena", "votes": 0},
+  { "id": 8, "name": "Suresh Kumar", "region": "Malwa", "party": "Bahujan Samaj Party", "votes": 0},
+  { "id": 9, "name": "Meera Khanna", "region": "Malwa", "party": "Trinamool Congress", "votes": 0},
+  { "id": 10, "name": "Ravi Mishra", "region": "Malwa", "party": "Telugu Desam Party", "votes": 0},
+  { "id": 11, "name": "Kavita Singh", "region": "Malwa", "party": "Rashtriya Janata Dal", "votes": 0},
+  { "id": 12, "name": "Sanjay Sharma", "region": "Malwa", "party": "Janata Dal (United)", "votes": 0},
+  { "id": 13, "name": "Anita Yadav", "region": "Malwa", "party": "Dravida Munnetra Kazhagam", "votes": 0},
+  { "id": 14, "name": "Vinod Reddy", "region": "Malwa", "party": "Telangana Rashtra Samithi", "votes": 0},
+  { "id": 15, "name": "Shweta Jain", "region": "Malwa", "party": "Biju Janata Dal", "votes": 0},
+  { "id": 16, "name": "Amit Kapoor", "region": "Malwa", "party": "Rashtriya Lok Dal", "votes": 0}
+]

@@ -1,0 +1,39 @@
+/* Form.css */
+
+/* Add any additional styles for your forms here */
+.container {
+    margin-top: 50px;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: auto;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  
+  @media (max-width: 600px) {
+    .container {
+      margin-top: 20px;
+    }
+  
+    .card {
+      box-shadow: none;
+    }
+  
+    form {
+      max-width: 100%;
+    }
+  }
+  
